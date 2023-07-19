@@ -1,0 +1,7 @@
+{
+  "name": "kreemer/testrepo",
+  "type": "library",
+  "provide": {
+    "kreemer/test-implementation": "1.0.0"
+  }
+}
